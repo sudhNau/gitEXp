@@ -1,1 +1,3 @@
 Hello this is comment on master branch
+
+This one is from branch1 "branchOfMaster"
